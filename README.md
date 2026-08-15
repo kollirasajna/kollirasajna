@@ -2,7 +2,7 @@
 👋 Hi, I'm Rasajna Kolli, an aspiring Data Analyst passionate about turning raw data into meaningful business insights.<br><br>📊 I work with SQL Server, Python, Excel, Power BI, and Tableau for data cleaning, analysis, visualization, and reporting.<br><br>🔎 I enjoy exploring real-world datasets, identifying patterns, building interactive dashboards, and translating data into actionable insights.<br><br>🚀 Currently strengthening my skills in advanced SQL, DAX, statistics, regression, and AI-assisted analytics.<br><br>🤝 Open to collaborating on Data Analytics, Business Intelligence, and Data Visualization projects.<br><br>
 
 🌐 Socials:
-![LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kolli rasajna) 
+!LinkedIn(https://linkedin.com/in/kolli rasajna) 
 
 
 💻 Tech Stack:

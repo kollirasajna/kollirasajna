@@ -1,18 +1,123 @@
-💫 About Me:
-👋 Hi, I'm Rasajna Kolli, an aspiring Data Analyst passionate about turning raw data into meaningful business insights.<br><br>📊 I work with SQL Server, Python, Excel, Power BI, and Tableau for data cleaning, analysis, visualization, and reporting.<br><br>🔎 I enjoy exploring real-world datasets, identifying patterns, building interactive dashboards, and translating data into actionable insights.<br><br>🚀 Currently strengthening my skills in advanced SQL, DAX, statistics, regression, and AI-assisted analytics.<br><br>🤝 Open to collaborating on Data Analytics, Business Intelligence, and Data Visualization projects.<br><br>
+<div align="center">
 
-🌐 Socials:
-!LinkedIn(https://linkedin.com/in/kolli rasajna) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9B59B6&height=160&section=header"/>
 
+<h1>Rasajna Kolli</h1>
+<h3>📊 Data Analytics Portfolio</h3>
 
-💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p>
+  <a href="https://linkedin.com/in/kollirasajna"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white"/>
+</p>
 
+<p>Aspiring <b>Data Analyst</b> based in Hyderabad, India — turning raw data into decisions with SQL, Python, and BI tools.</p>
 
+</div>
 
+<br/>
 
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kolli rasajna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kolli rasajna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kolli rasajna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📁 Projects
+
+<br/>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+<h3>🏗️ SQL Data Warehouse Project</h3>
+<p>A modern data warehouse built from scratch in SQL Server, following <b>Medallion Architecture</b> (Bronze → Silver → Gold). Consolidates raw ERP and CRM CSV data into a clean, business-ready star schema.</p>
+<ul>
+<li>Built ETL pipelines as stored procedures to move data through Bronze → Silver → Gold layers</li>
+<li>Modeled <code>dim_customers</code>, <code>dim_products</code>, and <code>fact_sales</code> as Gold-layer views</li>
+<li>Wrote data quality tests validating surrogate key uniqueness and referential integrity</li>
+<li>Documented architecture, data flow, and naming conventions</li>
+</ul>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Star%20Schema-blueviolet?style=flat-square"/>
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kollirasajna/sql-data-warehouse-project)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+<h3>📊 SQL Data Analytics Project</h3>
+<p>13 progressive T-SQL analytics scripts on top of a star-schema warehouse — from basic exploration to advanced trend, segmentation, and cumulative analysis.</p>
+<ul>
+<li>Used CTEs, window functions (<code>RANK()</code>, <code>LAG()</code>), and <code>CASE</code>-based segmentation</li>
+<li>Built running totals, moving averages, and YoY/MoM growth calculations</li>
+<li>Consolidated everything into two reusable reporting views: <code>report_customers</code> and <code>report_products</code> (recency, AOV, lifespan, VIP/Regular/New segmentation)</li>
+</ul>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Window%20Functions-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/CTEs-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Segmentation-blueviolet?style=flat-square"/>
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kollirasajna/sql-data-analytics-project)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+<h3>💼 LinkedIn Job Postings Analysis</h3>
+<p>End-to-end analysis of <b>20,500+ real LinkedIn job postings</b> (108 countries, 6,656 companies, May 2021–Apr 2023) using SQL, Python, and Power BI.</p>
+<ul>
+<li>Cleaned raw scraped data with a Python/pandas pipeline — deduplicated 34.9% of raw rows, stripped HTML/whitespace artifacts, parsed locations into city/region/country</li>
+<li>Built a star-schema Gold layer (<code>fact_postings</code>, <code>dim_companies</code>, <code>dim_locations</code>) and analyzed it with 13 SQL scripts</li>
+<li><b>Key findings:</b> Tech-related industries make up ~31% of postings; India, the US, and UK account for ~75% of all postings; data/ML/analytics roles are 11.3% of the market</li>
+<li>Built an interactive Power BI dashboard visualizing hiring trends, in-demand skills, and salary/location patterns</li>
+</ul>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kollirasajna/linkedin_jobpostings_insights)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:2E9EF7&height=100&section=footer"/>
+</div>
+

@@ -201,6 +201,38 @@
 </table>
 
 <br/>
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<h3>🧱 Concrete Strength Prediction & Analysis</h3>
+
+<p>End-to-end concrete strength analytics project using <b>Python, SQL, Power BI, and Machine Learning</b> to analyze concrete mix composition, curing age, and compressive strength.</p>
+
+<ul>
+<li>Used <b>Python and Pandas</b> for data cleaning, preprocessing, exploratory analysis, and identifying relationships between mix components and concrete strength.</li>
+<li>Developed <b>SQL queries</b> to analyze material composition, curing age, strength distribution, and key engineering patterns.</li>
+<li>Built a <b>regression model</b> to predict compressive strength from mix composition and curing age, achieving approximately <b>80% prediction accuracy</b>.</li>
+<li>Created an interactive <b>Power BI dashboard</b> with KPIs and visualizations to explore strength trends, material relationships, and analytical insights.</li>
+</ul>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Regression-green?style=flat-square"/>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kollirasajna/Concrete-Strength-Prediction-Analysis-)
+
+</td>
+</tr>
+</table>
+
 ## 📈 GitHub Activity
 
 <div align="center">

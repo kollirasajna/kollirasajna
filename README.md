@@ -122,7 +122,85 @@
 </table>
 
 <br/>
+<br/>
 
+<table>
+<tr>
+<td width="70%" valign="top">
+<h3>🚕 Uber Analytics Dashboard</h3>
+<p>End-to-end Uber analytics project using SQL, Python, and Power BI to analyze bookings, revenue, customer behavior, cancellations, payment methods, vehicle types, and time-based trends.</p>
+<ul>
+<li>Used <b>Python and Pandas</b> to clean, transform, and prepare raw booking data, including handling missing values, duplicates, and inconsistent fields.</li>
+<li>Wrote <b>SQL queries</b> to analyze booking performance, cancellation patterns, revenue, vehicle types, payment methods, and customer behavior.</li>
+<li>Built an interactive <b>Power BI dashboard</b> with DAX measures and KPIs for bookings, revenue, distance, ratings, and operational performance.</li>
+</ul>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kollirasajna/Uber-Analytics-Dashboard)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+<h3>📱 PhonePe Payment Insights Dashboard</h3>
+<p>End-to-end digital payment analytics project using SQL, Python, and Power BI to analyze transaction trends, payment success, transaction value, user behavior, and service performance.</p>
+<ul>
+<li>Used <b>Python and Pandas</b> to clean and transform transaction data and prepare analysis-ready datasets for dashboard development.</li>
+<li>Developed <b>SQL queries</b> to analyze transaction volume, transaction value, payment status, service performance, user activity, and demographic segments.</li>
+<li>Built an interactive <b>Power BI dashboard</b> with DAX measures for transaction KPIs, successful transaction rate, unique users, service contribution, and usage patterns.</li>
+</ul>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kollirasajna/PhonePe-Payment-Insights-Dashboard)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+<h3>🏠 Airbnb Performance Dashboard</h3>
+<p>End-to-end Airbnb analytics project using SQL, Python, and Power BI to analyze listing growth, pricing, market share, ratings, reviews, seasonality, and host trust signals across 10 global cities.</p>
+<ul>
+<li>Used <b>Python and Pandas</b> for data cleaning, preprocessing, transformation, and exploratory analysis of Airbnb listing and review data.</li>
+<li>Created <b>SQL queries</b> to analyze listing trends, city-level performance, pricing, reviews, ratings, property types, and host-related metrics.</li>
+<li>Built an interactive <b>Power BI dashboard</b> with DAX measures to analyze market share, listing growth, review frequency, seasonal trends, and host trust signals.</li>
+</ul>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_AIRBNB_REPO_LINK)
+
+</td>
+</tr>
+</table>
+
+<br/>
 ## 📈 GitHub Activity
 
 <div align="center">
